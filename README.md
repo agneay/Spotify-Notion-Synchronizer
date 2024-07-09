@@ -11,3 +11,8 @@ SPOTIFY_CLIENT_SECRET='your_spotify_client_secret'
 SPOTIFY_PLAYLIST_ID='your_playlist_id'
 NOTION_DATABASE_ID='your_notion_database_id'
 ```
+
+To run type 
+```
+npm start
+```
