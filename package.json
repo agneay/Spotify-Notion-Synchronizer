@@ -1,0 +1,23 @@
+{
+    "name": "spotify-notion-synchronizer",
+    "version": "1.0.0",
+    "main": "src/main.js",
+    "description": "A extension for notion to sync playlists on spotify",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/agneay/Spotify-Notion-Synchronizer.git"
+    },
+    "author": "agneay",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/agneay/Spotify-Notion-Synchronizer/issues"
+    },
+    "homepage": "https://github.com/agneay/Spotify-Notion-Synchronizer#readme",
+    "dependencies": {
+        "@notionhq/client": "^2.2.15",
+        "dotenv": "^16.4.5"
+    }
+}
