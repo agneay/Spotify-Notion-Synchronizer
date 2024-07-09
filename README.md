@@ -1,4 +1,4 @@
-# Spotify-Notion-Synchronizer
+![](https://github.com/agneay/Spotify-Notion-Synchronizer/blob/main/assets/Spotify%20Notion%20Synchronizer.png?raw=true)
 
 ## A Notion extension to sync spotify playlist with notion
 
