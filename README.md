@@ -2,6 +2,13 @@
 
 ## A Notion extension to sync spotify playlist with notion
 
+![](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
+![](https://img.shields.io/github/forks/agneay/Spotify-Notion-Synchronizer?style=for-the-badge)
+![](https://img.shields.io/github/issues/agneay/Spotify-Notion-Synchronizer?style=for-the-badge)
+![](https://img.shields.io/github/stars/agneay/Spotify-Notion-Synchronizer?style=for-the-badge)
+![](https://img.shields.io/github/license/agneay/Spotify-Notion-Synchronizer?style=for-the-badge)
+
+
 create a .env file in the root directory and add api keys as follows
 
 ```
