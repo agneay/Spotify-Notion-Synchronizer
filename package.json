@@ -4,7 +4,7 @@
     "main": "src/main.js",
     "description": "A extension for notion to sync playlists on spotify",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start":"node src/main.js"
     },
     "repository": {
         "type": "git",
